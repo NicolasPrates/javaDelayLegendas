@@ -13,7 +13,7 @@ import entities.Legendas;
 import static java.nio.charset.StandardCharsets.UTF_8;
 
 
-public class teste {
+public class Main {
     public static void main(String[] args) throws ParseException {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
